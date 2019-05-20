@@ -1,4 +1,4 @@
-# werkgroep water
+# Werkgroep Water
 Beste bezoeker,
 
 Welkom op de samenwerkomgeving van de werkgroep Water. De werkgroepen zijn opgezet voor o.a. de inventarisatie van knelpunten en behoeften voor de vormgeving van een samenhangende objectenregistratie.
